@@ -1,0 +1,6 @@
+[submodule "newrepo2"]
+	path = newrepo2
+	url = https://github.com/BhavikJBhatiya/newrepo2.git
+[submodule "newrepotest"]
+	path = newrepotest
+	url = https://github.com/BhavikJBhatiya/newrepotest.git
